@@ -160,7 +160,7 @@
         <div class="section">
             <h2>6. Contact Us</h2>
             <p>If you have any questions regarding this policy, please contact us via email:</p>
-            <p class="email">帝蛙9780@gamil.com</p>
+            <p class="email">diwa49780@gamil.com</p>
         </div>
     </div>
 
