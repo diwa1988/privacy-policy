@@ -114,7 +114,7 @@
         <div class="section">
             <h2>6. 联系我们</h2>
             <p>如果您对本政策有任何疑问，请通过以下电子邮件联系：</p>
-            <p class="email">帝蛙9780@gamil.com</p>
+            <p class="email">diwa49780@gamil.com</p>
         </div>
     </div>
 
